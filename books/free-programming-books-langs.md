@@ -1917,7 +1917,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 ### Python
-
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 * [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
@@ -2004,6 +2003,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7) *(:card_file_box: archived)*
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
+* [Python Begins: Intro to Python Programming](https://github.com/RahulRoy-rsp/Python-Begins) - Rahul. J. Roy 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
 * [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
